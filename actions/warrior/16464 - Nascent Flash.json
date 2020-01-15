@@ -29,15 +29,6 @@
       "flags": {
         "ApplyToSelf": false
       }
-    },
-    {
-      "id": 3,
-      "name": "Sleep",
-      "duration": 30000,
-      "param": 0,
-      "flags": {
-        "ApplyToSelf": false
-      }
     }
   ]
 }

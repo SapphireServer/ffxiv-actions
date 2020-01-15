@@ -4,7 +4,7 @@ This repo contains mostly complete action data for all regular combat actions - 
 Originally based on the work of [Ravahn](https://github.com/ravahn/) for his ACT plugin.
 
 ## Folder Structure
-All files exist in the actions directory. Said actions belong in a folder that represents what _class_ or _job_ they belong to, outside of 2 exceptions being role actions and limit breaks.
+All files exist in the `actions` directory. Said actions belong in a folder that represents what _class_ or _job_ they belong to.
 
 For example, the action `Fast Blade` is shared by both Gladiator and Paladin, but the origin class is Gladiator so it goes in the `gladiator` folder, not anywhere else.
 
