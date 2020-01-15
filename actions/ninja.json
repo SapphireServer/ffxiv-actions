@@ -1,0 +1,588 @@
+[
+  {
+    "id": 2240,
+    "name": "Spinning Edge",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 220,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2242,
+    "name": "Gust Slash",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 100,
+      "combo": 330,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2259,
+    "name": "Ten",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 496,
+        "name": "Mudra",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 496,
+        "name": "Mudra",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 2260,
+    "name": "Ninjutsu",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2261,
+    "name": "Chi",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 496,
+        "name": "Mudra",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 496,
+        "name": "Mudra",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 2262,
+    "name": "Shukuchi",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2263,
+    "name": "Jin",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 496,
+        "name": "Mudra",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 496,
+        "name": "Mudra",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 2264,
+    "name": "Kassatsu",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 497,
+        "name": "Kassatsu",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 16488,
+    "name": "Hakke Mujinsatsu",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 100,
+      "combo": 140,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3563,
+    "name": "Armor Crush",
+    "positionalDirection": 1,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3566,
+    "name": "Dream Within a Dream",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 200,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1955,
+        "name": "Assassinate Ready",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 2246,
+    "name": "Assassinate",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 200,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7401,
+    "name": "Hellfrog Medium",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7402,
+    "name": "Bhavacakra",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7403,
+    "name": "Ten Chi Jin",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1186,
+        "name": "Ten Chi Jin",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 16489,
+    "name": "Meisui",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 16493,
+    "name": "Bunshin",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1954,
+        "name": "Bunshin",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 1954,
+        "name": "Bunshin",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 2265,
+    "name": "Fuma Shuriken",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 500,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2266,
+    "name": "Katon",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 50,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2267,
+    "name": "Raiton",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 800,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2268,
+    "name": "Hyoton",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 400,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2269,
+    "name": "Huton",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 500,
+        "name": "Huton",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 500,
+        "name": "Huton",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 2270,
+    "name": "Doton",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 501,
+        "name": "Doton",
+        "duration": 24000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 502,
+        "name": "Doton Heavy",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 501,
+        "name": "Doton",
+        "duration": 24000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 502,
+        "name": "Doton Heavy",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 2271,
+    "name": "Suiton",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 600,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 507,
+        "name": "Suiton",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 507,
+        "name": "Suiton",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 16491,
+    "name": "Goka Mekkyaku",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 750,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 16492,
+    "name": "Hyosho Ranryu",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 1200,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 2272,
+    "name": "Rabbit Medium",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  }
+]

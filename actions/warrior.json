@@ -1,0 +1,295 @@
+[
+  {
+    "id": 49,
+    "name": "Inner Beast",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 350,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 16462,
+    "name": "Mythril Tempest",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 100,
+      "combo": 200,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 51,
+    "name": "Steel Cyclone",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 220,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 52,
+    "name": "Infuriate",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1897,
+        "name": "Nascent Chaos",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 3549,
+    "name": "Fell Cleave",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 590,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3551,
+    "name": "Raw Intuition",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 735,
+        "name": "Raw Intuition",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 735,
+        "name": "Raw Intuition",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 3552,
+    "name": "Equilibrium",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 1200,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3550,
+    "name": "Decimate",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 250,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7386,
+    "name": "Onslaught",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 100,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7387,
+    "name": "Upheaval",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 450,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7388,
+    "name": "Shake It Off",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1457,
+        "name": "Shake It Off",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 7389,
+    "name": "Inner Release",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1177,
+        "name": "Inner Release",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 16463,
+    "name": "Chaotic Cyclone",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 400,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 16464,
+    "name": "Nascent Flash",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1857,
+        "name": "Nascent Flash",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1858,
+        "name": "Nascent Glint",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 16465,
+    "name": "Inner Chaos",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 920,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  }
+]

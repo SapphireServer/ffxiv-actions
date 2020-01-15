@@ -1,0 +1,281 @@
+[
+  {
+    "id": 31,
+    "name": "Heavy Swing",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 200,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 37,
+    "name": "Maim",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 100,
+      "combo": 300,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 38,
+    "name": "Berserk",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 86,
+        "name": "Berserk",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Overpower",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 130,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 48,
+    "name": "Defiance",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 91,
+        "name": "Defiance",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Tomahawk",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 140,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 42,
+    "name": "Storm's Path",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 100,
+      "combo": 380,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 250,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 40,
+    "name": "Thrill of Battle",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 87,
+        "name": "Thrill of Battle",
+        "duration": 20000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Vengeance",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 89,
+        "name": "Vengeance",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 912,
+        "name": "Vulnerability Down",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 89,
+        "name": "Vengeance",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 912,
+        "name": "Vulnerability Down",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Holmgang",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 88,
+        "name": "Holmgang",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 409,
+        "name": "Holmgang",
+        "duration": 6000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 88,
+        "name": "Holmgang",
+        "duration": 8000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 409,
+        "name": "Holmgang",
+        "duration": 8000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Storm's Eye",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 100,
+      "combo": 380,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 90,
+        "name": "Storm's Eye",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  }
+]

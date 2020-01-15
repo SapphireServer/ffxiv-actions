@@ -1,0 +1,1220 @@
+[
+  {
+    "id": 3596,
+    "name": "Malefic",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 150,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3594,
+    "name": "Benefic",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 400,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 815,
+        "name": "Enhanced Benefic II",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 3599,
+    "name": "Combust",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 838,
+        "name": "Combust",
+        "duration": 18000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 838,
+        "name": "Combust",
+        "duration": 18000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 3606,
+    "name": "Lightspeed",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 841,
+        "name": "Lightspeed",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 3600,
+    "name": "Helios",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 330,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3603,
+    "name": "Ascend",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 148,
+        "name": "Raise",
+        "duration": 1000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 3614,
+    "name": "Essential Dignity",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3610,
+    "name": "Benefic II",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 700,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3590,
+    "name": "Draw",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 913,
+        "name": "Balance Drawn",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 914,
+        "name": "Bole Drawn",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 915,
+        "name": "Arrow Drawn",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 916,
+        "name": "Spear Drawn",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 917,
+        "name": "Ewer Drawn",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 918,
+        "name": "Spire Drawn",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 3604,
+    "name": "Diurnal Sect",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 839,
+        "name": "Diurnal Sect",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 9629,
+    "name": "Undraw",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3595,
+    "name": "Aspected Benefic",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 200,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 835,
+        "name": "Aspected Benefic",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 837,
+        "name": "Nocturnal Field",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1920,
+        "name": "Diurnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 1921,
+        "name": "Nocturnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 17151,
+    "name": "Aspected Benefic",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 200,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 837,
+        "name": "Nocturnal Field",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 3593,
+    "name": "Redraw",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3601,
+    "name": "Aspected Helios",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 200,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 836,
+        "name": "Aspected Helios",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 837,
+        "name": "Nocturnal Field",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1920,
+        "name": "Diurnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 1921,
+        "name": "Nocturnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 836,
+        "name": "Aspected Helios",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 837,
+        "name": "Nocturnal Field",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1920,
+        "name": "Diurnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 1921,
+        "name": "Nocturnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 17152,
+    "name": "Aspected Helios",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 200,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 837,
+        "name": "Nocturnal Field",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1920,
+        "name": "Diurnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 1921,
+        "name": "Nocturnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1891,
+        "name": "Horoscope Helios",
+        "duration": 20000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 837,
+        "name": "Nocturnal Field",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1920,
+        "name": "Diurnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 1921,
+        "name": "Nocturnal Balance",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1891,
+        "name": "Horoscope Helios",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 3615,
+    "name": "Gravity",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 140,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3608,
+    "name": "Combust II",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 843,
+        "name": "Combust II",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 843,
+        "name": "Combust II",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 3605,
+    "name": "Nocturnal Sect",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3612,
+    "name": "Synastry",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 845,
+        "name": "Synastry",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 846,
+        "name": "Synastry",
+        "duration": 0,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 7443,
+    "name": "Minor Arcana",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 16552,
+    "name": "Divination",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1878,
+        "name": "Divination",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 3598,
+    "name": "Malefic II",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 170,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 3613,
+    "name": "Collective Unconscious",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 848,
+        "name": "Collective Unconscious",
+        "duration": 18000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 849,
+        "name": "Collective Unconscious",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 956,
+        "name": "Wheel of Fortune",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 848,
+        "name": "Collective Unconscious",
+        "duration": 18000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      },
+      {
+        "id": 849,
+        "name": "Collective Unconscious",
+        "duration": 5000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 956,
+        "name": "Wheel of Fortune",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 16553,
+    "name": "Celestial Opposition",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1879,
+        "name": "Diurnal Opposition",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1880,
+        "name": "Nocturnal Opposition",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1879,
+        "name": "Diurnal Opposition",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1880,
+        "name": "Nocturnal Opposition",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 7439,
+    "name": "Earthly Star",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1224,
+        "name": "Earthly Dominance",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 8324,
+    "name": "Stellar Detonation",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 150,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 540,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7442,
+    "name": "Malefic III",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 210,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 7448,
+    "name": "Sleeve Draw",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1926,
+        "name": "Sleeve Draw",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 16554,
+    "name": "Combust III",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1881,
+        "name": "Combust III",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1881,
+        "name": "Combust III",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 16555,
+    "name": "Malefic IV",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 250,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 16556,
+    "name": "Celestial Intersection",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 200,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1889,
+        "name": "Nocturnal Intersection",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1888,
+        "name": "Diurnal Intersection",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1888,
+        "name": "Diurnal Intersection",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      },
+      {
+        "id": 1889,
+        "name": "Nocturnal Intersection",
+        "duration": 30000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 16558,
+    "name": "Horoscope",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": []
+  },
+  {
+    "id": 16559,
+    "name": "Neutral Sect",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1892,
+        "name": "Neutral Sect",
+        "duration": 20000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 4403,
+    "name": "the Spear",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1884,
+        "name": "The Arrow",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 4402,
+    "name": "the Arrow",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1883,
+        "name": "The Bole",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 4405,
+    "name": "the Ewer",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1886,
+        "name": "The Ewer",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 4406,
+    "name": "the Spire",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1887,
+        "name": "The Spire",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 7444,
+    "name": "Lord of Crowns",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1876,
+        "name": "Lord of Crowns",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 7445,
+    "name": "Lady of Crowns",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1877,
+        "name": "Lady of Crowns",
+        "duration": 15000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 16557,
+    "name": "Horoscope",
+    "positionalDirection": 0,
+    "potency": {
+      "base": 0,
+      "combo": 0,
+      "positional": 0,
+      "positionalCombo": 0,
+      "heal": 0,
+      "selfHeal": 0,
+      "mpGainPercentage": 0
+    },
+    "statuses": [
+      {
+        "id": 1890,
+        "name": "Horoscope",
+        "duration": 10000,
+        "param": 0,
+        "flags": {
+          "ApplyToSelf": false
+        }
+      }
+    ]
+  }
+]

@@ -59,17 +59,21 @@ namespace example
     {
         void Main(string[] args)
         {
-            var dir = new DirectoryInfo(args[0]);
-            
             var actions = new Dictionary<int, ActionData>();
 
-            foreach (var f in dir.GetFiles("*.json", SearchOption.AllDirectories))
+            foreach (var f in Directory.EnumerateFiles(args[0], "*.json"))
             {
-                var obj = Newtonsoft.Json.JsonConvert.DeserializeObject<ActionData>(File.ReadAllText(f.FullName));
-                actions[obj.Id] = obj;
+                var data = File.ReadAllText(f);
+                
+                var obj = JsonConvert.DeserializeObject<ActionData[]>(data);
+                
+                foreach(var o in obj)
+                {
+                    actions[o.Id] = o;
+                }
+
+                // do stuff     
             }
-            
-            // do stuff
         }
     }
 
