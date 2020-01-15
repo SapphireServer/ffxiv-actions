@@ -1,0 +1,34 @@
+{
+  "id": 56,
+  "name": "Snap Punch",
+  "positionalDirection": 1,
+  "potency": {
+    "base": 210,
+    "combo": 230,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 107,
+      "name": "Opo-opo Form",
+      "duration": 10000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 107,
+      "name": "Opo-opo Form",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

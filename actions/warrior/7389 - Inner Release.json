@@ -1,0 +1,25 @@
+{
+  "id": 7389,
+  "name": "Inner Release",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 1177,
+      "name": "Inner Release",
+      "duration": 10000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

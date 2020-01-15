@@ -1,0 +1,25 @@
+{
+  "id": 101,
+  "name": "Raging Strikes",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 125,
+      "name": "Raging Strikes",
+      "duration": 20000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

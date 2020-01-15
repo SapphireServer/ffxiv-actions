@@ -1,0 +1,15 @@
+{
+  "id": 7431,
+  "name": "Stone IV",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 280,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

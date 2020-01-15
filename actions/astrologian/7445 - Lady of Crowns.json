@@ -1,0 +1,25 @@
+{
+  "id": 7445,
+  "name": "Lady of Crowns",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 1877,
+      "name": "Lady of Crowns",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    }
+  ]
+}

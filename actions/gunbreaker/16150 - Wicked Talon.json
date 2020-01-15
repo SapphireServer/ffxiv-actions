@@ -1,0 +1,25 @@
+{
+  "id": 16150,
+  "name": "Wicked Talon",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 650,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 1844,
+      "name": "Ready to Gouge",
+      "duration": 10000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

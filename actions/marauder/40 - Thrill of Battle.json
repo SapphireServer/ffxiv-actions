@@ -1,0 +1,25 @@
+{
+  "id": 40,
+  "name": "Thrill of Battle",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 87,
+      "name": "Thrill of Battle",
+      "duration": 20000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    }
+  ]
+}

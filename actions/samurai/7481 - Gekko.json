@@ -1,0 +1,15 @@
+{
+  "id": 7481,
+  "name": "Gekko",
+  "positionalDirection": 2,
+  "potency": {
+    "base": 100,
+    "combo": 480,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

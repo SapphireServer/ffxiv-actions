@@ -1,0 +1,70 @@
+{
+  "id": 3590,
+  "name": "Draw",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 913,
+      "name": "Balance Drawn",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 914,
+      "name": "Bole Drawn",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 915,
+      "name": "Arrow Drawn",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 916,
+      "name": "Spear Drawn",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 917,
+      "name": "Ewer Drawn",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 918,
+      "name": "Spire Drawn",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11395,
+  "name": "Blood Drain",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 20,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

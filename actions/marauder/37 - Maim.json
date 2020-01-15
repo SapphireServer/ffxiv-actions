@@ -1,0 +1,15 @@
+{
+  "id": 37,
+  "name": "Maim",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 100,
+    "combo": 300,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

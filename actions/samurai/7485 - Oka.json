@@ -1,0 +1,15 @@
+{
+  "id": 7485,
+  "name": "Oka",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 100,
+    "combo": 160,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": 65,
+  "name": "Mantra",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 102,
+      "name": "Mantra",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 102,
+      "name": "Mantra",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    }
+  ]
+}

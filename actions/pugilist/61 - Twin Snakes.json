@@ -1,0 +1,52 @@
+{
+  "id": 61,
+  "name": "Twin Snakes",
+  "positionalDirection": 1,
+  "potency": {
+    "base": 150,
+    "combo": 170,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 101,
+      "name": "Twin Snakes",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 109,
+      "name": "Coeurl Form",
+      "duration": 10000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 101,
+      "name": "Twin Snakes",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 109,
+      "name": "Coeurl Form",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 113,
+  "name": "Windbite",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 60,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 129,
+      "name": "Windbite",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 129,
+      "name": "Windbite",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    }
+  ]
+}

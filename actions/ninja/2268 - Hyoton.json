@@ -1,0 +1,15 @@
+{
+  "id": 2268,
+  "name": "Hyoton",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 400,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

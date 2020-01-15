@@ -1,0 +1,34 @@
+{
+  "id": 3636,
+  "name": "Shadow Wall",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 747,
+      "name": "Shadow Wall",
+      "duration": 10000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 747,
+      "name": "Shadow Wall",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

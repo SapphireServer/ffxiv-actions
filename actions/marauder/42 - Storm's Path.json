@@ -1,0 +1,15 @@
+{
+  "id": 42,
+  "name": "Storm's Path",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 100,
+    "combo": 380,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 250,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

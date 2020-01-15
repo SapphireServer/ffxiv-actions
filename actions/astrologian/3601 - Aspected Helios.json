@@ -1,0 +1,88 @@
+{
+  "id": 3601,
+  "name": "Aspected Helios",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 200,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 836,
+      "name": "Aspected Helios",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 837,
+      "name": "Nocturnal Field",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 1920,
+      "name": "Diurnal Balance",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 1921,
+      "name": "Nocturnal Balance",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 836,
+      "name": "Aspected Helios",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 837,
+      "name": "Nocturnal Field",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 1920,
+      "name": "Diurnal Balance",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 1921,
+      "name": "Nocturnal Balance",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    }
+  ]
+}

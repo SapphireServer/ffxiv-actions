@@ -1,0 +1,15 @@
+{
+  "id": 16145,
+  "name": "Solid Barrel",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 100,
+    "combo": 400,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

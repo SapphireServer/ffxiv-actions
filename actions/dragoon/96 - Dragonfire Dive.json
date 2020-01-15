@@ -1,0 +1,15 @@
+{
+  "id": 96,
+  "name": "Dragonfire Dive",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 380,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": []
+}

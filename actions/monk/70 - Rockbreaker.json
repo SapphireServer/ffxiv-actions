@@ -1,0 +1,34 @@
+{
+  "id": 70,
+  "name": "Rockbreaker",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 120,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 107,
+      "name": "Opo-opo Form",
+      "duration": 10000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    },
+    {
+      "id": 107,
+      "name": "Opo-opo Form",
+      "duration": 15000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": true
+      }
+    }
+  ]
+}

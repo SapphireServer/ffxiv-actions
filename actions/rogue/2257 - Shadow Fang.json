@@ -1,0 +1,43 @@
+{
+  "id": 2257,
+  "name": "Shadow Fang",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 200,
+    "combo": 220,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 508,
+      "name": "Shadow Fang",
+      "duration": 24000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 508,
+      "name": "Shadow Fang",
+      "duration": 24000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 508,
+      "name": "Shadow Fang",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    }
+  ]
+}

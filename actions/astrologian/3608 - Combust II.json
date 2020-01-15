@@ -1,0 +1,34 @@
+{
+  "id": 3608,
+  "name": "Combust II",
+  "positionalDirection": 0,
+  "potency": {
+    "base": 0,
+    "combo": 0,
+    "positional": 0,
+    "positionalCombo": 0,
+    "heal": 0,
+    "selfHeal": 0,
+    "mpGainPercentage": 0
+  },
+  "statuses": [
+    {
+      "id": 843,
+      "name": "Combust II",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    },
+    {
+      "id": 843,
+      "name": "Combust II",
+      "duration": 30000,
+      "param": 0,
+      "flags": {
+        "ApplyToSelf": false
+      }
+    }
+  ]
+}
