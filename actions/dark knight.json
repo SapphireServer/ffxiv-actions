@@ -25,7 +25,7 @@
       "positionalCombo": 0,
       "heal": 0,
       "selfHeal": 0,
-      "mpGainPercentage": 0
+      "mpGainPercentage": 6
     },
     "statuses": []
   },
@@ -333,7 +333,7 @@
       "positionalCombo": 0,
       "heal": 0,
       "selfHeal": 0,
-      "mpGainPercentage": 0
+      "mpGainPercentage": 6
     },
     "statuses": []
   },
@@ -428,7 +428,7 @@
       "positionalCombo": 0,
       "heal": 0,
       "selfHeal": 0,
-      "mpGainPercentage": 0
+      "mpGainPercentage": 6
     },
     "statuses": [
       {
