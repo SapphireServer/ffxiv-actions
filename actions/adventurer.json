@@ -17,7 +17,7 @@
         "id": 50,
         "name": "Sprint",
         "duration": 10000,
-        "param": 0,
+        "param": 30,
         "flags": {
           "ApplyToSelf": true
         }

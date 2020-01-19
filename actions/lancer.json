@@ -149,10 +149,10 @@
     "name": "Chaos Thrust",
     "positionalDirection": 2,
     "potency": {
-      "base": 0,
-      "combo": 0,
-      "positional": 0,
-      "positionalCombo": 0,
+      "base": 100,
+      "combo": 290,
+      "positional": 140,
+      "positionalCombo": 330,
       "heal": 0,
       "selfHeal": 0,
       "mpGainPercentage": 0

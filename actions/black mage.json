@@ -10,7 +10,7 @@
       "positionalCombo": 0,
       "heal": 0,
       "selfHeal": 0,
-      "mpGainPercentage": 0
+      "mpGainPercentage": 30
     },
     "statuses": []
   },
